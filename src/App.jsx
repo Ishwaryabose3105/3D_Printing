@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { MotionConfig } from 'framer-motion'
 import Layout from "./components/layout/Layout";
 import ModalProvider from './context/ModalProvider'
-import'./components/layout/Layout.jsx'
+
 
 import Services from './pages/Services'
 import Products from './pages/Products'
